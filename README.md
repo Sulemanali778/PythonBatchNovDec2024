@@ -57,3 +57,28 @@ To get the latest changes
 To create new branch
 
     git checkout -b <NEW BRANCH NAME>
+
+## Course Completed
+
+[class 00 04th Nov 2024 ](zoomrecordinglink)
+
+    00. Dev Setup
+        Installing IDE/Editor
+        Installing Python and loacal Setup
+        Github access, creating project
+[class 01 06 Nov 2024 ](zoomrecordinglink)
+
+        git commands
+        markdown syntax
+        daily activity and usage
+
+    01. Introduction
+        Importance of Python
+        Two versions of Python (2.x & 3.x)
+
+## Next Class
+
+        built-in functions
+        Comment Operator
+        Keywords and Identifiers
+        Line continuation and statement seperator operators

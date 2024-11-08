@@ -1,0 +1,25 @@
+Git is Version contol tool
+GitHub
+BitBucket
+GitLab
+
+Git is a process contol
+
+
+Projects
+	Branches
+		Main/Master
+		
+
+Real Time Projects
+	SDLC 
+	Software Development life cycle
+	
+	Requirements Gathering -> Development -> Testing -> Production
+	
+Our Branch setup
+	
+	main/master -- final code
+	class01
+	class02
+	class03
