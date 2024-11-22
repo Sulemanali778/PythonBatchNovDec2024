@@ -91,7 +91,8 @@ To create new branch
         Keywords and Identifiers
         Line continuation and statement seperator operators
 
-## Next Class
+[class 03 13 Nov 2024 ](zoomrecordinglink)
+
         Comment Operator
         Keywords and Identifiers
         Line continuation and statement seperator operators
@@ -100,7 +101,23 @@ To create new branch
         Arithmetic operations
             +, -, /, //, *
             divmod() function
+            compound operations
+    Assignments:
+        1.) Assignment -- try to get the sum of digits in a integer number, using divmod  
+        2.) Assignment -- if a clock has revolved for 32 times and is have way, How many days comleted?
+
+## Next Class
+
             Practical Problem Solving
             working with complex numbers
             abs() function
             Operator precedence in Arithmetic operations
+
+        String Operations
+            usage of single, double and triple quotes
+            len() function
+            Indexing and Slicing Strings
+            string attributes
+            String formating: old & new styles, f-strings
+            bytearray() and byte() strings
+            unicode strings
