@@ -107,7 +107,6 @@ To create new branch
         2.) Assignment -- if a clock has revolved for 32 times and is have way, How many days comleted?
 
 
-
 [class 04 15 Nov 2024 ](zoomrecordinglink)
 
             Practical Problem Solving
@@ -115,24 +114,26 @@ To create new branch
             abs() function
             Operator precedence in Arithmetic operations
 
-        
         Assignments:
+            
             1) Savings Bank
             2) Bank Loan
                 Simple Interest
                 Compound Interest
-            3) Convert Hex to Oct and Vice-versa
-            4) feet to cms converstion
-           
+            3) convert from Hexa to Octa and Vice-versa
+            4) Feet to CMS Converstions
 
+[class 05 20 Nov 2024 ](zoomrecordinglink)
+
+    String Operations
+        usage of single, double and triple quotes
+        len() function
+        Indexing and Slicing Strings
+
+[class 06 22 Nov 2024 ](zoomrecordinglink)
+        string attributes
+        String formating: old & new styles, f-strings
+        bytearray() and byte() strings
+        unicode strings
 
 ## Next Class
-
-        String Operations
-            usage of single, double and triple quotes
-            len() function
-            Indexing and Slicing Strings
-            string attributes
-            String formating: old & new styles, f-strings
-            bytearray() and byte() strings
-            unicode strings
