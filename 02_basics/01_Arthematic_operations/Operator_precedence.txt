@@ -1,0 +1,22 @@
+operator precedence
+-------------------
+    PEMDAS
+        p - parantheses
+        E - exponent
+        M - Multiplication
+        D - Division
+        A - Addition
+        S - Subtraction
+
+
+Order of evaluation
+---------------------------------------------------------------------
+---
+operators                                                descriptions
+---------------------------------------------------------------------
+---
+(), [], {}, ''                                            tuple, list, dictionary, string
+x.attr, x[], x[i:j], f()                                  attribute, index, slide, function call
++x, -x, ~x                                                unary negation, bitwise invert
+**                                                        exponent
+*, /, %                                                   Multiplication, Division, modulo
