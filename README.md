@@ -106,12 +106,27 @@ To create new branch
         1.) Assignment -- try to get the sum of digits in a integer number, using divmod  
         2.) Assignment -- if a clock has revolved for 32 times and is have way, How many days comleted?
 
-## Next Class
+
+
+[class 04 15 Nov 2024 ](zoomrecordinglink)
 
             Practical Problem Solving
             working with complex numbers
             abs() function
             Operator precedence in Arithmetic operations
+
+        
+        Assignments:
+            1) Savings Bank
+            2) Bank Loan
+                Simple Interest
+                Compound Interest
+            3) Convert Hex to Oct and Vice-versa
+            4) feet to cms converstion
+           
+
+
+## Next Class
 
         String Operations
             usage of single, double and triple quotes
